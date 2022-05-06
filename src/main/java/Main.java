@@ -1,5 +1,5 @@
-import tutorial.Client;
-import tutorial.Server;
+import _1_basics.Client;
+import _1_basics.Server;
 
 public class Main {
     public static void main(String[] args) {

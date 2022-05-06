@@ -1,4 +1,4 @@
-package tutorial;
+package _1_basics;
 
 import lombok.SneakyThrows;
 
